@@ -1,11 +1,11 @@
-# Title: KADhosts
-# Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
+# Title: My personal list of websites to block
+# Description: Several.
 # Last modified: Fri, 14 Apr 2023, 22:31 UTC+00:00
 # Creator: Filipe
 # Maintainer: Filipe
 #
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
-# (PT) AVISO: os sites listados abaixo podem ser prejudiciais. Por favor, não os visite se não souber o que está fazendo!
+# (PT) AVISO: Os sites listados abaixo podem ser prejudiciais. Por favor, não os visite se não souber o que está a fazer!
 #
 0.0.0.0 apostasonline.pt
 0.0.0.0 gaydar.net
