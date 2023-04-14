@@ -7,4 +7,4 @@
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # (PT) AVISO: os sites listados abaixo podem ser prejudiciais. Por favor, não os visite se não souber o que está fazendo!
 #
-0.0.0.0 
+0.0.0.0 apostasonline.pt
