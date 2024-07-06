@@ -1,8 +1,8 @@
 # Title: My personal list of websites to block
 # Description: Several.
-# Last modified: Fri, 14 Apr 2023, 22:31 UTC+00:00
-# Creator: Filipe
-# Maintainer: Filipe
+# Last modified: Sat, 6 Jul 2024
+# Creator: FIVETEK
+# Maintainer: FIVETEK
 #
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # (PT) AVISO: Os sites listados abaixo podem ser prejudiciais. Por favor, não os visite se não souber o que está a fazer!
